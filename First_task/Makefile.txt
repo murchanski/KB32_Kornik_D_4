@@ -1,0 +1,2 @@
+Tsk1: main.c
+	gcc -o Tsk1 main.c

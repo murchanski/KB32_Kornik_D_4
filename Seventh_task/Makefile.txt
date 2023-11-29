@@ -1,0 +1,2 @@
+Tsk7: main.c
+	gcc -o Tsk7 main.c
